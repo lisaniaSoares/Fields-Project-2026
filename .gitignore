@@ -1,0 +1,12 @@
+# Dados originais (não enviar)
+Dados/Treinamento/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+
+# Configurações locais do VS Code
+.vscode/
