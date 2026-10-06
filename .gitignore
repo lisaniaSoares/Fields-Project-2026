@@ -10,3 +10,10 @@ __pycache__/
 
 # Configurações locais do VS Code
 .vscode/
+# Chaves e configurações secretas
+.env
+
+# Arquivos gerados pelo GraphRAG
+GraphRAG/output/
+GraphRAG/cache/
+GraphRAG/logs
