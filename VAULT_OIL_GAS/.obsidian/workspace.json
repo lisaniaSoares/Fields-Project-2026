@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "d6900d3bc7607aa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa836cac5191740a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9222b6b3a59aae62",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4347d7636eef3da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bf121173e70740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95d5b03bfde7e1e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "47243cfc88e949f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7bf78f2d2903d54b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a01292895824e030",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d70c734d72d28f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10cd282f500e6a5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "375f6208c3544c5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "bace9173ca3f4cdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cf3c5e3392f4953f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "f08fe8046ba81ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "95d5b03bfde7e1e5",
+  "lastOpenFiles": [
+    "Treinamento/Basen_PTAX/CotacoesMoedasPeriodo.csv",
+    "Treinamento/Basen_PTAX/CotacoesMoedasPeriodo (3).csv",
+    "Treinamento/Basen_PTAX/CotacoesMoedasPeriodo (2).csv",
+    "Treinamento/Basen_PTAX/CotacoesMoedasPeriodo (1).csv",
+    "Treinamento/Basen_PTAX",
+    "Treinamento/Anuario_2026/~$g1-1 1.xlsx",
+    "Bem-vindo.md",
+    "Treinamento/Anuario_2026/g1-1 1.xlsx",
+    "Treinamento/Anuario_2026/t3-18.xls",
+    "Treinamento/Anuario_2026/t3-4.xls",
+    "Treinamento/Anuario_2026/t2-64.xls",
+    "Treinamento/Anuario_2026/t2-63.xls",
+    "Sem título.md"
+  ]
+}
