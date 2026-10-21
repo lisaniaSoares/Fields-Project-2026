@@ -11,7 +11,7 @@ completion_models:
     api_base: https://apihub.agnes-ai.com/v1
     max_tokens: 4000
     temperature: 0.0
-    concurrent_requests: 4
+    concurrent_requests: 1
 
 embedding_models:
   default_embedding_model:
